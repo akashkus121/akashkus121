@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Akash Kushwaha  
 
-<!--
-**akashkus121/akashkus121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Asp.net Developer | 🌐 MERN Stack Explorer | 📊 Learning Data Engineering  
 
-Here are some ideas to get you started:
+🚀 Passionate about building apps that make daily life easier — from mood check-ins to expense tracking.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔹 ASP.NET / C#  
+- [Daily-Use-App](https://github.com/akashkus121/Daily-Use-App) – A daily utility app built with ASP.NET & C#.  
+- [Stationary](https://github.com/akashkus121/Stationary) – Inventory-style project in C#.  
+- [PortfolioAPI](https://github.com/akashkus121/PortfolioAPI) – Backend API for portfolio.  
+- [Asp.netportfoilo](https://github.com/akashkus121/Asp.netportfoilo) – Portfolio web app using ASP.NET.  
+
+### 🔹 MERN / JavaScript  
+- [Spend-Sphere](https://github.com/akashkus121/Spend-Sphere) – Full-stack expense tracker (React.js + Node.js + MongoDB).  
+- [Thought-Loom](https://github.com/akashkus121/Thought-Loom) – JS project (content-driven).  
+
+### 🔹 Web / Frontend  
+- [Sky-Cast](https://github.com/akashkus121/Sky-Cast-) – Weather forecast site in HTML.  
+- [PORTFOLIO](https://github.com/akashkus121/PORTFOLIO) – Portfolio with CSS design.  
+- [Work-Finder](https://github.com/akashkus121/Work-Finder) – JS-based job hunting tool.  
+
+### 🔹 Social & Chat Apps  
+- [Chat-Application](https://github.com/akashkus121/Chat-Application) – Real-time JS chat.  
+- [justchatting](https://github.com/akashkus121/justchatting) – Lightweight JS chat app.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkus121&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=akashkus121&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Learning  
+- Deepening knowledge of **ASP.NET Core** & **SQL Server**  
+- Exploring **Data Engineering** (SQL, Power BI)  
+
+---
+
+## ⚡ Fun Fact  
+I debug more than I code 😅  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashkus121&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/akashkus121?label=Followers&style=social)  
