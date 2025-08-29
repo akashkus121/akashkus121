@@ -22,10 +22,24 @@
 
 ---
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Akash%20Kushwaha&fontSize=50&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F709&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akash+Kushwaha;Asp.Net+Developer;MERN+Stack+Explorer;SQL+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,js,react,nodejs,express,mongodb,sql,git,github,vscode" />
+</p>
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 🔹 ASP.NET / C#  
-- [Daily-Use-App](https://github.com/akashkus121/Daily-Use-App) – A daily utility app built with ASP.NET & C#.  
+- [Daily-Use-App](https://github.com/akashkus121/Daily-Use-App) – Daily utility app built with ASP.NET & C#.  
 - [Stationary](https://github.com/akashkus121/Stationary) – Inventory-style project in C#.  
 - [PortfolioAPI](https://github.com/akashkus121/PortfolioAPI) – Backend API for portfolio.  
 - [Asp.netportfoilo](https://github.com/akashkus121/Asp.netportfoilo) – Portfolio web app using ASP.NET.  
@@ -65,3 +79,4 @@ I debug more than I code 😅
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akashkus121&color=blue)  
 ![GitHub followers](https://img.shields.io/github/followers/akashkus121?label=Followers&style=social)  
+ 
