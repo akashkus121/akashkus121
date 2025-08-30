@@ -30,24 +30,16 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashkus121&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
----
 
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/akashkus121/akashkus121/blob/output/github-contribution-grid-snake.svg)
 
----
 
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-kushwaha-6b72a4231/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:akashkus121@gmail.com">
+  <a href="mailto:908akashkushwaha@gmial.com@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
