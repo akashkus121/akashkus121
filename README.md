@@ -1,18 +1,60 @@
-
-
+<!-- Banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Akash%20Kushwaha&fontSize=50&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F709&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akash+Kushwaha;Asp.Net+Developer;MERN+Stack+Explorer;SQL+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
+<!-- Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F709&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+Kushwaha;Asp.Net+Developer;MERN+Stack+Explorer;SQL+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me  
+- 🎓 B.Tech (Mechanical) | Transitioning into Software Development  
+- 💻 Building projects with **ASP.NET Core, React.js, SQL Server**  
+- 🌱 Currently learning **SQL + Power BI + Data Engineering**  
+- 🏗 Working on **DailyLife+ Dashboard** (Unique Daily-use Web App)  
+- ✨ Open to collaboration on cool projects!  
 
+---
+
+## 💻 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,js,react,nodejs,express,mongodb,sql,git,github,vscode" />
 </p>
 
 ---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashkus121&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkus121&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashkus121&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/akashkus121/akashkus121/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-kushwaha-6b72a4231/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:akashkus121@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+✨ _“Code. Learn. Build. Repeat.”_
+
 
 ## 🚀 Featured Projects  
 
