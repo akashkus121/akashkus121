@@ -44,8 +44,7 @@
   </a>
 </p>
 
----
-✨ _“Code. Learn. Build. Repeat.”_
+
 
 
 ## 🚀 Featured Projects  
@@ -71,12 +70,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkus121&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=akashkus121&theme=tokyonight)  
-
----
 
 ## 🌱 Currently Learning  
 - Deepening knowledge of **ASP.NET Core** & **SQL Server**  
@@ -85,7 +79,9 @@
 ---
 
 ## ⚡ Fun Fact  
-I debug more than I code 😅  
+I debug more than I code 😅 
+---
+✨ _“Code. Learn. Build. Repeat.”
 
 ---
 
