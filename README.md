@@ -8,8 +8,7 @@
 
 ## 🚀 About Me  
 - 🎓 B.Tech (Mechanical) | Transitioning into Software Development  
-- 💻 Building projects with **ASP.NET Core, React.js, SQL Server**  
-- 🌱 Currently learning **SQL + Power BI + Data Engineering**  
+- 💻 Building projects with **ASP.NET FrameWork, React.js, SQL Server**  
 - 🏗 Working on **DailyLife+ Dashboard** (Unique Daily-use Web App)  
 - ✨ Open to collaboration on cool projects!  
 
