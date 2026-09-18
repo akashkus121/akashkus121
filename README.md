@@ -1,59 +1,81 @@
-<!-- Header with Typing Effect and 3D GIF -->
+<!-- Dynamic Waving Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="3D Animation Placeholder" width="80" height="80" />
-  <br/>
-  <!-- Animated Typing Text -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Akash+Kushwaha+👋;B.Tech+Mechanical+%E2%9E%9C+Software+Dev;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=200&section=header&text=Akash%20Kushwaha&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://github.com/akashkus121">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=%E2%9A%99%EF%B8%8F+B.Tech+Mechanical+%E2%9E%9C+Software+Engineer;%F0%9F%92%BB+Former+SWE+at+Sigmoss+Systems;%F0%9F%9A%80+Building+DailyLife%2B+Dashboard;%E2%9C%A8+Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-## 🚀 About Me
-* 🎓 **Background:** B.Tech (Mechanical) transitioning into full-time Software Development.
-* 💻 **Experience:** Previously brought solutions to life as a Software Engineer at Sigmoss Systems.
-* 🏗 **Current Focus:** Building **DailyLife+ Dashboard** (A unique daily-use Web App) and diving deeper into **ASP.NET Core & SQL Server**.
-* 📈 **Exploring:** Data Engineering (SQL, Power BI).
-* ✨ **Goal:** Open to collaboration on cool, impactful projects!
-* ⚡ **Fun Fact:** I debug more than I code 😅
-
-<br/>
-
-## 💻 Tech Stack
+<!-- Floating 3D/Animated Tech Stack -->
+<h2 align="center"> 🛠️ Tech Arsenal </h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,js,react,nodejs,express,mongodb,sql,git,github,vscode" alt="My Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,express,mongodb,sql,c,cpp,git,github,vscode&perline=7" />
   </a>
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 About My Journey</h3>
+      <p>I transitioned from Mechanical Engineering to full-stack development, applying engineering precision to software architecture. After driving solutions as a Software Engineer at Sigmoss Systems, I am currently focused on expanding my backend expertise.</p>
+      <ul>
+        <li>🔭 <strong>Currently working on:</strong> DailyLife+ Dashboard (ASP.NET & C#)</li>
+        <li>🌱 <strong>Currently learning:</strong> Deepening ASP.NET Core & Data Engineering (Power BI)</li>
+        <li>💡 <strong>Fun fact:</strong> I debug more than I code 😅</li>
+        <li>📫 <strong>Reach me:</strong> <a href="mailto:908akashkushwaha@gmail.com">908akashkushwaha@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏆 GitHub Trophies</h3>
+      <div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=akashkus121&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center"> ⚡ Featured Engineering </h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkus121&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkus121&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  
+| 🛡️ ASP.NET / C# Architecture | ⚛️ MERN / JS Ecosystem |
+| :--- | :--- |
+| **[Daily-Use-App](#)** <br/> Utility web application built with ASP.NET & C# | **[Spend-Sphere](#)** <br/> Full-stack expense tracker (React.js, Node.js, MongoDB) |
+| **[Stationary](#)** <br/> Inventory-style management system in C# | **[Thought-Loom](#)** <br/> Content-driven JavaScript platform |
+| **[PortfolioAPI](#)** <br/> Dedicated backend API infrastructure | **[Chat-Application](#)** <br/> Real-time communication socket app |
+
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+<h2 align="center"> 📊 Contribution Metrics </h2>
 
-| 🔹 ASP.NET / C# | 🔹 MERN / JavaScript | 🔹 Web & Utilities |
-| :--- | :--- | :--- |
-| **Daily-Use-App**<br/>Utility app built with ASP.NET & C# | **Spend-Sphere**<br/>Full-stack expense tracker (React, Node, MongoDB) | **Sky-Cast**<br/>Weather forecast site (HTML/CSS/JS) |
-| **Stationary**<br/>Inventory-style project in C# | **Thought-Loom**<br/>JS content-driven project | **Work-Finder**<br/>JS-based job hunting tool |
-| **PortfolioAPI**<br/>Backend API for portfolio | **Chat-Application**<br/>Real-time JS chat application | **PORTFOLIO**<br/>Sleek CSS-designed portfolio |
-| **Asp.netportfoilo**<br/>Portfolio web app using ASP.NET | **justchatting**<br/>Lightweight JS chat app | |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashkus121&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=06B6D4" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkus121&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="190" alt="Top Languages" />
+</div>
+
+<!-- Animated Contribution Snake (Requires GitHub Actions Setup) -->
+<h2 align="center"> 🐍 Contribution Snake </h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/akashkus121/akashkus121/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 <br/>
 
-## 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/akash-kushwaha-6b72a4231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:908akashkushwaha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
