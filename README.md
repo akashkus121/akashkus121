@@ -1,89 +1,149 @@
-<!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=Akash%20Kushwaha&fontSize=50&fontColor=ffffff)
+<div align="center">
 
-<!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F709&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+Kushwaha;Asp.Net+Developer;MERN+Stack+Explorer;SQL+%26+Data+Engineering+Learner)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=220&section=header&text=Akash%20Kushwaha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20MERN&descAlignY=55&descSize=18" />
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F709&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akash+Kushwaha;ASP.NET+Core+Developer;MERN+Stack+Explorer;SQL+%26+Data+Engineering+Learner" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me  
-- 🎓 B.Tech (Mechanical) | Transitioning into Software Development  
-- 💻 Building projects with **ASP.NET FrameWork, React.js, SQL Server**  
-- 🏗 Working on **DailyLife+ Dashboard** (Unique Daily-use Web App)  
-- ✨ Open to collaboration on cool projects!  
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=akashkus121&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/akashkus121?label=FOLLOWERS&style=for-the-badge&color=blue" />
 
-## 💻 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,js,react,nodejs,express,mongodb,sql,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkus121&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkus121&layout=compact&theme=radical" height="180" />
-</p>
+### 🚀 About Me
+
+- 🎓 B.Tech (Mechanical Engineering) → transitioned into Software Development
+- 💻 Building with **ASP.NET Core, C#, React.js, SQL Server**
+- 🏗 Currently working on **DailyLife+ Dashboard** — a unique daily-use web app
+- 🌱 Deepening skills in **ASP.NET Core, SQL Server & Data Engineering (Power BI)**
+- ✨ Open to collaborating on interesting projects
+- ⚡ Fun fact: I debug more than I code 😅
 
 ---
 
+### 🧠 Tech Stack
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,express,mongodb,sql,git,github,vscode,cpp,c" />
 
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/akash-kushwaha-6b72a4231/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:908akashkushwaha@gmial.com@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-
-
-
-## 🚀 Featured Projects  
-
-### 🔹 ASP.NET / C#  
-- [Daily-Use-App](https://github.com/akashkus121/Daily-Use-App) – Daily utility app built with ASP.NET & C#.  
-- [Stationary](https://github.com/akashkus121/Stationary) – Inventory-style project in C#.  
-- [PortfolioAPI](https://github.com/akashkus121/PortfolioAPI) – Backend API for portfolio.  
-- [Asp.netportfoilo](https://github.com/akashkus121/Asp.netportfoilo) – Portfolio web app using ASP.NET.  
-
-### 🔹 MERN / JavaScript  
-- [Spend-Sphere](https://github.com/akashkus121/Spend-Sphere) – Full-stack expense tracker (React.js + Node.js + MongoDB).  
-- [Thought-Loom](https://github.com/akashkus121/Thought-Loom) – JS project (content-driven).  
-
-### 🔹 Web / Frontend  
-- [Sky-Cast](https://github.com/akashkus121/Sky-Cast-) – Weather forecast site in HTML.  
-- [PORTFOLIO](https://github.com/akashkus121/PORTFOLIO) – Portfolio with CSS design.  
-- [Work-Finder](https://github.com/akashkus121/Work-Finder) – JS-based job hunting tool.  
-
-### 🔹 Social & Chat Apps  
-- [Chat-Application](https://github.com/akashkus121/Chat-Application) – Real-time JS chat.  
-- [justchatting](https://github.com/akashkus121/justchatting) – Lightweight JS chat app.  
+</div>
 
 ---
 
+### 📊 GitHub Analytics
 
+<div align="center">
 
-## 🌱 Currently Learning  
-- Deepening knowledge of **ASP.NET Core** & **SQL Server**  
-- Exploring **Data Engineering** (SQL, Power BI)  
+<img src="https://github-readme-stats.vercel.app/api?username=akashkus121&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashkus121&layout=compact&theme=radical&hide_border=true" height="165" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkus121&theme=radical&hide_border=true" height="165" />
 
-## ⚡ Fun Fact  
-I debug more than I code 😅 
----
-✨ _“Code. Learn. Build. Repeat.”
+</div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=akashkus121&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/akashkus121?label=Followers&style=social)  
- 
+### 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashkus121&theme=react-dark&hide_border=true" width="100%" />
+
+</div>
+
+<!--
+🎬 Want the animated "snake eating contributions" and 3D isometric contribution
+graph seen on many profiles? Those are generated by free GitHub Actions running
+on YOUR repo (they can't be hotlinked from someone else's account). Setup notes
+are at the bottom of this file — takes about 5 minutes, no server needed.
+-->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/akashkus121/akashkus121/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation (set up via GitHub Action — see notes below)" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/akashkus121/Spend-Sphere">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkus121&repo=Spend-Sphere&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/akashkus121/Daily-Use-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkus121&repo=Daily-Use-App&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/akashkus121/PortfolioAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkus121&repo=PortfolioAPI&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/akashkus121/Chat-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkus121&repo=Chat-Application&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/akashkus121/Work-Finder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkus121&repo=Work-Finder&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/akashkus121/Sky-Cast-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashkus121&repo=Sky-Cast-&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+<details>
+<summary><b>📂 All Repositories (click to expand)</b></summary>
+<br>
+
+**ASP.NET / C#**
+- [Daily-Use-App](https://github.com/akashkus121/Daily-Use-App) – Daily utility app built with ASP.NET & C#
+- [Stationary](https://github.com/akashkus121/Stationary) – Inventory-style project in C#
+- [PortfolioAPI](https://github.com/akashkus121/PortfolioAPI) – Backend API for portfolio
+- [Asp.netportfoilo](https://github.com/akashkus121/Asp.netportfoilo) – Portfolio web app using ASP.NET
+
+**MERN / JavaScript**
+- [Spend-Sphere](https://github.com/akashkus121/Spend-Sphere) – Full-stack expense tracker (React + Node + MongoDB)
+- [Thought-Loom](https://github.com/akashkus121/Thought-Loom) – Content-driven JS project
+
+**Web / Frontend**
+- [Sky-Cast](https://github.com/akashkus121/Sky-Cast-) – Weather forecast site
+- [PORTFOLIO](https://github.com/akashkus121/PORTFOLIO) – Personal portfolio
+- [Work-Finder](https://github.com/akashkus121/Work-Finder) – JS-based job hunting tool
+
+**Social & Chat Apps**
+- [Chat-Application](https://github.com/akashkus121/Chat-Application) – Real-time JS chat
+- [justchatting](https://github.com/akashkus121/justchatting) – Lightweight JS chat app
+
+</details>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akash-kushwaha-6b72a4231/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:908akashkushwaha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/akashkus121" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63,200:0f0c29&height=120&section=footer" />
+
+<i>"Code. Learn. Build. Repeat."</i>
+
+</div>
