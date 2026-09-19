@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="56" height="56">
+  <defs>
+    <linearGradient id="gh-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d333b"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="gh-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="gh-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#gh-bg)" stroke="url(#gh-border)" stroke-width="1.5" filter="url(#gh-glow)"/>
+  <path d="M 4 18 Q 4 4 18 4 L 46 4 Q 60 4 60 18 Q 48 24 32 24 Q 16 24 4 18 Z" fill="#ffffff" opacity="0.08"/>
+  <path fill="#f0f6fc" d="M32 12C20.95 12 12 20.95 12 32c0 8.84 5.73 16.33 13.68 18.98 1 .18 1.36-.43 1.36-.96 0-.48-.02-1.74-.02-3.41-5.56 1.21-6.74-2.68-6.74-2.68-.91-2.31-2.22-2.93-2.22-2.93-1.82-1.24.14-1.22.14-1.22 2.01.14 3.07 2.06 3.07 2.06 1.78 3.05 4.68 2.17 5.82 1.66.18-1.29.7-2.17 1.27-2.67-4.44-.5-9.11-2.22-9.11-9.89 0-2.18.78-3.97 2.06-5.37-.21-.51-.89-2.54.2-5.3 0 0 1.68-.54 5.5 2.05 1.6-.45 3.31-.67 5.02-.68 1.71.01 3.42.23 5.02.68 3.82-2.59 5.49-2.05 5.49-2.05 1.1 2.76.42 4.79.21 5.3 1.28 1.4 2.06 3.19 2.06 5.37 0 7.69-4.68 9.38-9.14 9.88.72.62 1.36 1.85 1.36 3.73 0 2.7-.02 4.87-.02 5.54 0 .54.36 1.16 1.37.96C46.28 48.32 52 40.84 52 32c0-11.05-8.95-20-20-20z"/>
+</svg>
