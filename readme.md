@@ -135,6 +135,39 @@ const akash = {
 
 ---
 
+## 🚀 System Telemetry & Engineering Specs
+
+<div align="center">
+  <img width="100%" src="./assets/hud.svg" alt="System Telemetry HUD" />
+</div>
+
+---
+
+## 📐 Engineering Principles & Architectural Mindset
+
+<table align="center" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h4>⚡ High Performance</h4>
+      <p align="left">Optimized EF Core / Dapper queries, Redis caching layers, and asynchronous pipelines designed for low latency.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h4>🧱 Clean Architecture</h4>
+      <p align="left">Decoupled domain logic, SOLID principles, CQRS patterns, and maintainable layered solutions.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h4>🛡️ Defense in Depth</h4>
+      <p align="left">Strict JWT token management, Role-Based Access Control (RBAC), and sanitization at every API boundary.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h4>🔄 Continuous Delivery</h4>
+      <p align="left">Containerized with Docker, automated deployment workflows, and scalable cloud hosting on Azure.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📌 Currently Leveling Up
 
 | Track | Focus | Status |
@@ -143,6 +176,18 @@ const akash = {
 | ⚡ **Microservices** | Event-driven microservices with asynchronous messaging | `🔄 In Progress` |
 | ☁️ **Cloud Computing** | Azure cloud deployment, serverless & container workflows | `🚀 Leveling Up` |
 | 🤖 **AI & GenAI** | LLM API integrations, vector embeddings & intelligent agents | `🔍 Exploring` |
+
+---
+
+## 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashkus121/akashkus121/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashkus121/akashkus121/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/akashkus121/akashkus121/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
