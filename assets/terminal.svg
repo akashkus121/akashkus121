@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="240">
+  <defs>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16161e"/>
+      <stop offset="100%" stop-color="#1a1b26"/>
+    </linearGradient>
+    <linearGradient id="term-bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f2335"/>
+      <stop offset="100%" stop-color="#24283b"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+    <style>
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      .cursor { animation: blink 1s step-start infinite; fill: #7aa2f7; }
+      .t-title { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #565f89; }
+      .prompt { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; font-weight: bold; fill: #bb9af7; }
+      .cmd { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 14px; fill: #7dcfff; }
+      .output { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13px; fill: #c0caf5; }
+      .accent { fill: #9ece6a; font-weight: bold; }
+      .bracket { fill: #e0af68; }
+    </style>
+  </defs>
+
+  <!-- Window Container -->
+  <rect x="10" y="10" width="780" height="220" rx="14" fill="url(#term-bg)" stroke="#414868" stroke-width="1.2" filter="url(#shadow)"/>
+
+  <!-- Top Window Bar -->
+  <rect x="10" y="10" width="780" height="36" rx="14" fill="url(#term-bar)"/>
+  <rect x="10" y="32" width="780" height="14" fill="url(#term-bar)"/>
+  <line x1="10" y1="46" x2="790" y2="46" stroke="#24283b" stroke-width="1.2"/>
+
+  <!-- Mac Window Buttons -->
+  <circle cx="32" cy="28" r="6" fill="#f7768e"/>
+  <circle cx="52" cy="28" r="6" fill="#e0af68"/>
+  <circle cx="72" cy="28" r="6" fill="#9ece6a"/>
+
+  <!-- Window Title -->
+  <text x="400" y="32" text-anchor="middle" class="t-title">akash@dev-machine: ~</text>
+
+  <!-- Terminal Content -->
+  <!-- Line 1 -->
+  <text x="32" y="76" class="prompt">akash@terminal<tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#bb9af7">$</tspan> <tspan class="cmd">whoami</tspan></text>
+  <text x="32" y="98" class="output">↳ Akash Kushwaha <tspan fill="#565f89">|</tspan> <tspan class="accent">Software Developer (1.5+ Years Exp)</tspan></text>
+
+  <!-- Line 2 -->
+  <text x="32" y="130" class="prompt">akash@terminal<tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#bb9af7">$</tspan> <tspan class="cmd">cat core_stack.json</tspan></text>
+  <text x="32" y="152" class="output"><tspan class="bracket">{</tspan> "backend": "<tspan fill="#7dcfff">ASP.NET Core / Web API / Node.js</tspan>", "frontend": "<tspan fill="#61afef">React / Angular</tspan>", "db": "<tspan fill="#e5c07b">SQL Server / Redis</tspan>" <tspan class="bracket">}</tspan></text>
+
+  <!-- Line 3 -->
+  <text x="32" y="186" class="prompt">akash@terminal<tspan fill="#565f89">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#bb9af7">$</tspan> <tspan class="cmd">echo $PHILOSOPHY</tspan></text>
+  <text x="32" y="208" class="output">🚀 <tspan class="accent">Build → Learn → Improve → Repeat</tspan> <rect class="cursor" x="325" y="196" width="9" height="15" rx="1"/></text>
+</svg>

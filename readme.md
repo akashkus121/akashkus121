@@ -10,14 +10,23 @@
 
 <br/>
 
-<!-- Profile Views & Followers -->
+<!-- Profile Views & Followers Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=akashkus121&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
   <a href="https://github.com/akashkus121?tab=followers">
     <img src="https://img.shields.io/github/followers/akashkus121?style=for-the-badge&color=blue&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
   </a>
+  <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
 </p>
 
+</div>
+
+---
+
+## 👨‍💻 Developer Terminal
+
+<div align="center">
+  <img width="100%" src="./assets/terminal.svg" alt="Developer Terminal" />
 </div>
 
 ---
@@ -25,9 +34,9 @@
 ## 👋 About Me
 
 > 💻 **Software Developer | Full-Stack Developer**  
-> I’m a Software Developer with **1.5+ years of experience** building robust web applications using **ASP.NET Core**, **Web API**, **React**, **Node.js**, and **SQL Server**.  
+> I’m a Software Developer with **1.5+ years of experience** building robust, scalable web applications using **ASP.NET Core**, **Web API**, **React**, **Node.js**, and **SQL Server**.  
 >  
-> 🚀 I enjoy building **scalable APIs**, **real-time applications**, **database-driven systems**, and **clean user interfaces**.
+> 🚀 I enjoy architecting **scalable APIs**, **real-time applications**, **database-driven systems**, and **clean, intuitive user interfaces**.
 
 ```typescript
 const akash = {
@@ -41,6 +50,42 @@ const akash = {
   motto:        "Build → Learn → Improve → Repeat 🚀",
 };
 ```
+
+---
+
+## ⚡ Core Engineering Capabilities
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🚀 Scalable Backends</h3>
+      <p align="left">
+        • High-throughput ASP.NET Core &amp; Web APIs<br/>
+        • Clean Architecture &amp; MVC patterns<br/>
+        • Microservices &amp; RESTful contracts<br/>
+        • Entity Framework Core &amp; Dapper ORMs
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🎨 Modern Frontends</h3>
+      <p align="left">
+        • High-performance SPAs with React.js &amp; Angular<br/>
+        • Strict type-safe TypeScript interfaces<br/>
+        • State management &amp; seamless API integration<br/>
+        • Responsive, modern UI/UX design
+      </p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🛡️ Data &amp; DevOps</h3>
+      <p align="left">
+        • SQL Server optimization &amp; schema design<br/>
+        • High-speed caching (MongoDB, Redis)<br/>
+        • Secure JWT Authentication &amp; RBAC<br/>
+        • Containerization via Docker &amp; Azure Cloud
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -90,12 +135,14 @@ const akash = {
 
 ---
 
-## 📌 Currently Learning
+## 📌 Currently Leveling Up
 
-- 🏗️ **System Design & Scalable Architectures**
-- ⚡ **Microservices & Event-Driven Systems**
-- ☁️ **Cloud & Automated Deployment**
-- 🤖 **AI & GenAI Fundamentals**
+| Track | Focus | Status |
+|:---|:---|:---:|
+| 🏗️ **System Design** | High-concurrency architecture, caching strategies & load balancing | `⚡ Active` |
+| ⚡ **Microservices** | Event-driven microservices with asynchronous messaging | `🔄 In Progress` |
+| ☁️ **Cloud Computing** | Azure cloud deployment, serverless & container workflows | `🚀 Leveling Up` |
+| 🤖 **AI & GenAI** | LLM API integrations, vector embeddings & intelligent agents | `🔍 Exploring` |
 
 ---
 
