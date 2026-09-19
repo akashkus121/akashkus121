@@ -5,12 +5,12 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/akashkus121">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=620&lines=Hey+there!+I'm+Akash+Kushwaha+%F0%9F%91%8B;Software+Developer+%7C+Full-Stack+Developer+%F0%9F%92%BB;ASP.NET+Core+%E2%80%A2+Web+API+%E2%80%A2+React+%E2%80%A2+Node.js;SQL+Server+%E2%80%A2+MongoDB+%E2%80%A2+Docker+%E2%80%A2+Azure;Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=620&lines=Hey+there!+I'm+Akash+Kushwaha+%F0%9F%91%8B;Software+Developer+%7C+Full-Stack+Developer+%F0%9F%92%BB;1.5%2B+Years+Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+collaborations+%26+new+ideas+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
+<!-- Profile Views & Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=akashkus121&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
   <a href="https://github.com/akashkus121?tab=followers">
@@ -33,59 +33,11 @@
 
 ## 👋 About Me
 
-> 💻 **Software Developer | Full-Stack Developer**  
-> I’m a Software Developer with **1.5+ years of experience** building robust, scalable web applications using **ASP.NET Core**, **Web API**, **React**, **Node.js**, and **SQL Server**.  
->  
-> 🚀 I enjoy architecting **scalable APIs**, **real-time applications**, **database-driven systems**, and **clean, intuitive user interfaces**.
+I’m a **Software Developer** with **1.5+ years of hands-on experience** architecting and building robust web applications and database-driven systems.
 
-```typescript
-const akash = {
-  name:         "Akash Kushwaha",
-  role:         "Software Developer | Full-Stack Developer",
-  experience:   "1.5+ Years",
-  backend:      ["C#", "ASP.NET Core", "Web API", "MVC", "Node.js", "Express.js"],
-  frontend:     ["React.js", "Angular", "JavaScript", "TypeScript"],
-  databases:    ["SQL Server", "MongoDB", "Redis"],
-  tools:        ["Docker", "Git", "GitHub", "Azure", "IIS"],
-  motto:        "Build → Learn → Improve → Repeat 🚀",
-};
-```
-
----
-
-## ⚡ Core Engineering Capabilities
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🚀 Scalable Backends</h3>
-      <p align="left">
-        • High-throughput ASP.NET Core &amp; Web APIs<br/>
-        • Clean Architecture &amp; MVC patterns<br/>
-        • Microservices &amp; RESTful contracts<br/>
-        • Entity Framework Core &amp; Dapper ORMs
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🎨 Modern Frontends</h3>
-      <p align="left">
-        • High-performance SPAs with React.js &amp; Angular<br/>
-        • Strict type-safe TypeScript interfaces<br/>
-        • State management &amp; seamless API integration<br/>
-        • Responsive, modern UI/UX design
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🛡️ Data &amp; DevOps</h3>
-      <p align="left">
-        • SQL Server optimization &amp; schema design<br/>
-        • High-speed caching (MongoDB, Redis)<br/>
-        • Secure JWT Authentication &amp; RBAC<br/>
-        • Containerization via Docker &amp; Azure Cloud
-      </p>
-    </td>
-  </tr>
-</table>
+- 🚀 Passionate about building **high-throughput RESTful APIs**, **microservices**, and **clean SPAs**.
+- 🛠️ Deep focus on **performance optimization**, **asynchronous pipelines**, and **system reliability**.
+- 💡 Believer in clean architecture, type safety, and continuous self-improvement.
 
 ---
 
@@ -95,28 +47,28 @@ const akash = {
 
 ### 🔧 Backend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark" alt="Backend: C#, .NET, Node.js, Express" />
 </a>
 
 <br/><br/>
 
 ### ⚙️ Frontend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css&theme=dark" alt="Frontend: React, Angular, JavaScript, TypeScript, HTML5, CSS3" />
 </a>
 
 <br/><br/>
 
 ### 🗄️ Databases & Cloud
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,azure&theme=dark" alt="Databases and Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,azure&theme=dark" alt="Databases and Cloud: MongoDB, Redis, Azure" />
 </a>
 
 <br/><br/>
 
 ### 🚀 Tools & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark" alt="Tools and DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark" alt="Tools and DevOps: Docker, Git, GitHub, Postman, VS Code" />
 </a>
 
 <br/><br/>
@@ -135,39 +87,6 @@ const akash = {
 
 ---
 
-## 🚀 System Telemetry & Engineering Specs
-
-<div align="center">
-  <img width="100%" src="./assets/hud.svg" alt="System Telemetry HUD" />
-</div>
-
----
-
-## 📐 Engineering Principles & Architectural Mindset
-
-<table align="center" width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <h4>⚡ High Performance</h4>
-      <p align="left">Optimized EF Core / Dapper queries, Redis caching layers, and asynchronous pipelines designed for low latency.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h4>🧱 Clean Architecture</h4>
-      <p align="left">Decoupled domain logic, SOLID principles, CQRS patterns, and maintainable layered solutions.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h4>🛡️ Defense in Depth</h4>
-      <p align="left">Strict JWT token management, Role-Based Access Control (RBAC), and sanitization at every API boundary.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h4>🔄 Continuous Delivery</h4>
-      <p align="left">Containerized with Docker, automated deployment workflows, and scalable cloud hosting on Azure.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📌 Currently Leveling Up
 
 | Track | Focus | Status |
@@ -179,7 +98,7 @@ const akash = {
 
 ---
 
-## 🐍 Contribution Activity Snake
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -191,7 +110,7 @@ const akash = {
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Streak & Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akashkus121&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
